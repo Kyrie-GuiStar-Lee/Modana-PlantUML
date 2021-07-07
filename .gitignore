@@ -1,0 +1,19 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+
+# Ant result file
+plantuml.jar
+
+# Maven target folder
+target/
+
+# Eclipse Project files
+.settings/
+.classpath
+.project
